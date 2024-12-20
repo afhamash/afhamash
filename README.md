@@ -1,4 +1,4 @@
-Quantum computing PhD student at UTS specializing on quantum state estimation. 
+Quantum information PhD student at UTS. 
 
 
 
